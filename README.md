@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔐 YubiKey TOTP 批次匯入工具
 
 將 **Bitwarden** 密碼管理員匯出的 JSON 檔案中的 TOTP 2FA 金鑰，透過 `ykman` CLI 批次寫入 YubiKey。
@@ -226,3 +227,7 @@ A：為了降低依賴複雜度，以及確保與系統已安裝的 `ykman` 版�
 ## 📄 授權
 
 MIT License
+=======
+# totp2yubi
+A simple tool/script to migrate and import TOTP (2FA) secrets into YubiKey
+>>>>>>> 49b263d080e2e8e25ca9071f8c62a17cdc38d882
